@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Joshva",
+        "age": "22",
+        "score": "80",
+        "email": "joshva123@gmail.com"
+    },
+    {
+        "name": "Manova",
+        "age": "20",
+        "score": "93",
+        "email": "manova86@gmail.com"
+    },
+    {
+        "name": "Kumar",
+        "age": "24",
+        "score": "91",
+        "email": "kumar3873@gmail.com"
+    },
+    {
+        "name": "Arjun",
+        "age": "23",
+        "score": "85",
+        "email": "arjun27@gmail.com"
+    },
+    {
+        "name": "Aswan",
+        "age": "21",
+        "score": "99",
+        "email": "aswan938@gmail.com"
+    }
+]
