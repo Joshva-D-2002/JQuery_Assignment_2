@@ -39,13 +39,18 @@ body {
 table {
     min-width: 500px;
     min-height: 300px;
+    border: 1px solid #ddd;
 }
-
+th{
+    background-color: #f2f2f2;
+    text-align: center;
+    padding: 10px;
+}
+td{
+    text-align: center;
+    padding: 10px;
+}
 tr {
    height: 50px;
    width: 100%;
-}
-td {
-    text-align: center;
-    padding: 10px;
 }
